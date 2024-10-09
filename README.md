@@ -20,15 +20,15 @@ Welcome to my GitHub profile!
       <img src="https://img.shields.io/badge/Visual-Studio-purple?style=for-the-badge&logo=cplusplus" alt="Visual Studio" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Visual-Studio_Code-blue?style=for-the-badge&logo=cplusplus" alt="VS Code" />
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/IntelliJ_IDEA-8b41e4?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=000000" alt="IntelliJ IDEA" />
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" alt="Docker" />
+      <img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&labelColor=white" alt="Blender" />
     </td>
   </tr>
 </table>

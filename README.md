@@ -9,10 +9,11 @@ Welcome to my GitHub profile!
 - ⚡ I love astronomy, art, and music. I am a 3D artist too, with many years of experience on modeling.
 - 🎶 You can check my spotify page [here](https://open.spotify.com/artist/2Ubm853gnUsFHOgZxQoQxd)!
 
-### 🚀 My top projects
+![irisparadox's Stats](https://github-readme-stats.vercel.app/api?username=irisparadox&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![irisparadox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irisparadox&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![irisparadox's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irisparadox&theme=tokyonight&hide_border=false)
 
-
-### Tools that I use
+### 💻 Tools that I use
 
 <table>
   <tr>

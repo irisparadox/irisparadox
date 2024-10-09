@@ -14,4 +14,21 @@ Welcome to my GitHub profile!
 
 ### Tools that I use
 
-- ![Static Badge](https://img.shields.io/badge/Visual-Studio-purple?style=for-the-badge&logo=cplusplus)
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Visual-Studio-purple?style=for-the-badge&logo=cplusplus" alt="Visual Studio" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=nodedotjs" alt="Node.js" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker" alt="Docker" />
+    </td>
+  </tr>
+</table>

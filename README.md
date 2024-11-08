@@ -10,11 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgur.com/LzVR9rG.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -32,15 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-### **Software & Hardware** Engineer
-
-Welcome to my GitHub profile!
-- 🎓 I am currently a _Computer Engineering_ student at **Complutense University of Madrid**, in Spain.
-- 🌱 I tend to code lots of things, mostly data structures and algorithms in **c/c++ and Java**.
-- 💻 I also design hardware stuff. You can check [this repository](https://github.com/irisparadox/BOPPBIPP3), which is a 32 bit custom CPU made in VHDL.
-- ⚡ I love astronomy, art, and music. I am a 3D artist too, with many years of experience on modeling.
-- 🎶 You can check my spotify page [here](https://open.spotify.com/artist/2Ubm853gnUsFHOgZxQoQxd)!
-
 ###
 
 <div align="left">
@@ -51,6 +38,19 @@ Welcome to my GitHub profile!
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://imgur.com/LzVR9rG.gif"  />
+
+### **Software & Hardware** Engineer
+
+Welcome to my GitHub profile!
+- 🎓 I am currently a _Computer Engineering_ student at **Complutense University of Madrid**, in Spain.
+- 🌱 I tend to code lots of things, mostly data structures and algorithms in **c/c++ and Java**.
+- 💻 I also design hardware stuff. You can check [this repository](https://github.com/irisparadox/BOPPBIPP3), which is a 32 bit custom CPU made in VHDL.
+- ⚡ I love astronomy, art, and music. I am a 3D artist too, with many years of experience on modeling.
+- 🎶 You can check my spotify page [here](https://open.spotify.com/artist/2Ubm853gnUsFHOgZxQoQxd)!
 
 ###
 

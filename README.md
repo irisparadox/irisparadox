@@ -31,23 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="https://twitch.com/irisparadox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://twitter.com/irisparadox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/irisparadox/irisparadox/output/snake.svg" alt="Snake animation" />
-
 ### **Software & Hardware** Engineer
 
 Welcome to my GitHub profile!
@@ -56,5 +39,22 @@ Welcome to my GitHub profile!
 - 💻 I also design hardware stuff. You can check [this repository](https://github.com/irisparadox/BOPPBIPP3), which is a 32 bit custom CPU made in VHDL.
 - ⚡ I love astronomy, art, and music. I am a 3D artist too, with many years of experience on modeling.
 - 🎶 You can check my spotify page [here](https://open.spotify.com/artist/2Ubm853gnUsFHOgZxQoQxd)!
+
+###
+
+<div align="left">
+  <a href="https://twitch.com/irisparadox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://twitter.com/irisparadox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/irisparadox/irisparadox/output/snake.svg" alt="Snake animation" />
 
 ###

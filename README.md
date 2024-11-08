@@ -1,4 +1,52 @@
-## std::cout << "Hello World!\n"; 👋 I'm irisparadox:
+<h1 align="center">std::cout << "Hello World!\n"; 👋 I'm irisparadox:</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irisparadox&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=irisparadox&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://imgur.com/LzVR9rG.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="30" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://twitch.com/irisparadox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://twitter.com/irisparadox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/irisparadox/irisparadox/output/snake.svg" alt="Snake animation" />
 
 ### **Software & Hardware** Engineer
 
@@ -9,31 +57,4 @@ Welcome to my GitHub profile!
 - ⚡ I love astronomy, art, and music. I am a 3D artist too, with many years of experience on modeling.
 - 🎶 You can check my spotify page [here](https://open.spotify.com/artist/2Ubm853gnUsFHOgZxQoQxd)!
 
-![irisparadox's Stats](https://github-readme-stats.vercel.app/api?username=irisparadox&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![irisparadox's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irisparadox&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-![irisparadox's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irisparadox&theme=tokyonight&hide_border=false)
-
-### 💻 Tools that I use
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Visual-Studio-purple?style=for-the-badge&logo=cplusplus" alt="Visual Studio" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Visual-Studio_Code-blue?style=for-the-badge&logo=cplusplus" alt="VS Code" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/IntelliJ_IDEA-8b41e4?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=000000" alt="IntelliJ IDEA" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender&labelColor=white" alt="Blender" />
-    </td>
-  </tr>
-</table>
-
-### 🎨 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=tuusuario&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+###

@@ -35,8 +35,8 @@
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitch.svg" height="50" alt="twitch logo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/irisparadox" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/light/twitter-x.svg" height="50" alt="twitter logo" />
+  <a href="https://bsky.app/profile/irisparadox.bsky.social" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="50" alt="bluesky logo" />
   </a>
 </div>
 

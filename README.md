@@ -31,14 +31,15 @@
 ###
 
 <div align="center">
-  <a href="https://twitch.com/irisparadox" target="_blank" style="text-decoration: none;">
+  <a href="https://twitch.com/irisparadox" target="_blank" style="text-decoration: none;" tabindex="-1">
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitch.svg" height="50" alt="twitch logo" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/irisparadox" target="_blank" style="text-decoration: none;">
+  <a href="https://twitter.com/irisparadox" target="_blank" style="text-decoration: none;" tabindex="-1">
     <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/light/twitter-x.svg" height="50" alt="twitter logo" />
   </a>
 </div>
+
 
 
 ###

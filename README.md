@@ -32,10 +32,10 @@
 
 <div align="center">
   <a href="https://twitch.com/irisparadox" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitch.svg" height="35" alt="twitch logo"  />
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitch.svg" height="50" alt="twitch logo"  />
   </a>
   <a href="https://twitter.com/irisparadox" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitter-x.svg" height="50" alt="twitter logo"  />
   </a>
 </div>
 

@@ -51,7 +51,7 @@ Welcome to my GitHub profile!
 - 🎓 I am currently a _Computer Engineering_ student at **Complutense University of Madrid**, in Spain.
 - 🌱 I tend to code lots of things, mostly data structures and algorithms in **c/c++ and Java**.
 - 🧇 I do raw-metal programming for embedded systems. **Pure C baby!**
-- 🌄 Sometimes I like to program shader stuff too, like [this cool repository with a FFT ocean simulation!](https://github.com/irisparadox/CUDA_FFT_PROJECT), using **CUDA** :)
+- 🌄 Sometimes I like to program shader stuff too, like [this cool repository with a FFT ocean simulation](https://github.com/irisparadox/CUDA_FFT_PROJECT), using **CUDA**! :)
 - 💻 I also design hardware stuff. You can check [this repository](https://github.com/irisparadox/BOPPBIPP3), which is a 32 bit custom CPU made in VHDL.
 - ⚡ I love astronomy, art, and music. I am a 3D artist too, with many years of experience on modeling.
 - 🎶 You can check my spotify page [here](https://open.spotify.com/artist/2Ubm853gnUsFHOgZxQoQxd)!

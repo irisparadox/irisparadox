@@ -45,7 +45,7 @@
 
 <img align="right" height="150" src="https://imgur.com/LzVR9rG.gif"  />
 
-### **Software & Hardware** Engineer
+### **Computer Engineer**
 
 Welcome to my GitHub profile!
 - 🎓 I am currently a _Computer Engineering_ student at **Complutense University of Madrid**, in Spain.

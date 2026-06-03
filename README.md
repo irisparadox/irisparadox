@@ -1,4 +1,4 @@
-<h1 align="center">std::cout << "Hello World!\n"; 👋 I'm irisparadox:</h1>
+<h1 align="center">fprintf(stdout, "Hello World!\n"); 👋 I'm irisparadox:</h1>
 
 ###
 

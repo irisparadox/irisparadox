@@ -30,10 +30,6 @@
 ###
 
 <div align="center">
-  <a href="https://twitch.com/irisparadox" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/filled/twitch.svg" height="50" alt="twitch logo" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bsky.app/profile/irisparadox.bsky.social" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" height="30" alt="bluesky logo" />
   </a>
